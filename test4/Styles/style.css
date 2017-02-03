@@ -1,0 +1,33 @@
+﻿body {
+        background-color:azure;
+        margin:20px,40px,20px,40px;  
+}
+div{
+    height:inherit;
+    width:inherit;
+}
+.container,img{
+    max-height:100%;
+    max-width:100%;
+    margin:auto;
+}
+
+#adtop
+{
+    height: 90px; 
+    width: 728px; 
+    position: absolute; 
+    top: 42px; 
+    left: 268px; 
+    background-color: #C0C0C0;
+    overflow:hidden;
+}
+
+#d3 img,#adright img,#adleft img,#adtop img,#adtop div
+        {
+            max-height:100%;
+            max-width:100%; 
+            margin:auto;
+          
+        }
+
